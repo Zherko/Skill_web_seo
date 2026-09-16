@@ -1,14 +1,14 @@
 ---
-name: skill_web_seo
-description: Audit, plan, and implement SEO improvements across technical SEO, on-page optimization, structured data, Core Web Vitals, content strategy, and AI citability (llms.txt, AI crawlers, LLM extraction). Activa con /skill_web_seo. Usa cuando el usuario diga /skill_web_seo, "audita SEO", "mejora SEO" o necesite visibilidad en buscadores y citabilidad en IAs.
+name: skill-web-seo
+description: Audit, plan, and implement SEO improvements across technical SEO, on-page optimization, structured data, Core Web Vitals, content strategy, and AI citability (llms.txt, AI crawlers, LLM extraction). Activa con /skill-web-seo (/skill_web_seo alias). Usa cuando el usuario diga /skill-web-seo, "audita SEO", "mejora SEO" o necesite visibilidad en buscadores y citabilidad en IAs.
 metadata:
   origin: ECC
-  trigger: /skill_web_seo
+  trigger: /skill-web-seo
 ---
 
-# Skill_Web_SEO — `/skill_web_seo`
+# Skill_Web_SEO — `/skill-web-seo` (alias legacy: `/skill_web_seo`)
 
-> **Comando actual:** `/skill_web_seo` · **Comando anterior (obsoleto):** `/seo` → ahora redirige a `/skill_web_seo`
+> **Comando actual:** `/skill-web-seo` · **Aliases:** `/skill_web_seo` (legacy), `/seo` (obsoleto) → todos redirigen al mismo workflow
 
 ## Instalación y Uso
 
