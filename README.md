@@ -20,6 +20,8 @@ Luego usa `/skill_web_seo` en OpenCode, o dispara con lenguaje natural: "audita 
 
 - `SKILL.md` — skill completa (737 líneas): checklists técnicos, on-page, internal linking, image SEO, AI SEO & citabilidad, Static HTML Blog Pattern con template de artículo, RSS, sitemap, tracking opcional.
 
+Ver `SKILL.md` para la skill completa.
+
 ## Origen
 
 Exportada desde `~/.config/opencode/skills/skill_web_seo/SKILL.md`.
